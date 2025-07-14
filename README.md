@@ -1,6 +1,6 @@
 # Halo semua! 
 
-Perkenalkan nama saya **Bismi Padia**.<br>
+Perkenalkan nama saya **Bismi-Padia**.<br>
 
 Saya seorang **Machine Learning** di [Dicoding](https://www.dicoding.com/).<br>
 
